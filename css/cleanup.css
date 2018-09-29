@@ -7,6 +7,10 @@
   display:none;
 }
 
+div#wall div#tag-3.slick, .wicked{
+  display: none;
+}
+
 .parent > #tag-4 {
   display:none;
 }
