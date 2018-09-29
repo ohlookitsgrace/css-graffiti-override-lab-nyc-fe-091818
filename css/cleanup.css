@@ -3,10 +3,6 @@
   display:none;
 }
 
-#wall ~ div {
-  display:none;
-}
-
 #wall .tag-1 + #tag-2 {
   display:none;
 }
