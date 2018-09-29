@@ -3,7 +3,7 @@
   display:none;
 }
 
-.tag-1+div {
+#wall + div {
   display:none;
 }
 
